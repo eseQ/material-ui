@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import ReactTransitionGroup from 'react-transition-group/TransitionGroup';
+import ReactTransitionGroup from 'react-transition-group-old/TransitionGroup';
 import ScaleInChild from './ScaleInChild';
 import withTheme from '../styles/withTheme';
 

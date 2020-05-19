@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
-import ReactTransitionGroup from 'react-transition-group/TransitionGroup';
+import ReactTransitionGroup from 'react-transition-group-old/TransitionGroup';
 import withTheme from '../styles/withTheme';
 import Dom from '../utils/dom';
 import CircleRipple from './CircleRipple';

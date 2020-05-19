@@ -10,7 +10,7 @@ import Overlay from '../internal/Overlay';
 import RenderToLayer from '../internal/RenderToLayer';
 import Paper from '../Paper';
 
-import ReactTransitionGroup from 'react-transition-group/TransitionGroup';
+import ReactTransitionGroup from 'react-transition-group-old/TransitionGroup';
 
 class TransitionItem extends Component {
   static propTypes = {
